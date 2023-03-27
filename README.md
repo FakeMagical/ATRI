@@ -5,7 +5,7 @@
 [![time tracker](https://wakatime.com/badge/github/Kyomotoi/ATRI.svg)](https://wakatime.com/badge/github/Kyomotoi/ATRI)
 [![](https://img.shields.io/github/license/Kyomotoi/ATRI)](https://www.gnu.org/licenses/gpl-3.0.html)
 
-アトリは、高性能ですから！
+アトリは、高性能ですから！！
 
 为🐧即时聊天工具中复现一只优秀的**功能性**机器人是本项目的目标.
 
